@@ -1,3 +1,6 @@
+This code came from medium.com tutorial.
+Credits to below:
+
 ###Phaser JS Tutorial - Pairs Game 
 
 Source code and assets for the Pairs game, to go with the [Medium.com tutorial](https://medium.com/@codemwnci/getting-started-with-phaserjs-2493e92b1b53).
